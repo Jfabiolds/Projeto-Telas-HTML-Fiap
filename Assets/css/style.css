@@ -1,0 +1,15 @@
+/* seletor { */
+
+    /* propriedade:valor; */
+
+.form-control-dark {
+        border-color: var(--bs-gray);
+    }
+
+
+
+
+.Title-page{
+    color: rgb(115, 255, 0)
+}
+
